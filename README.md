@@ -14,7 +14,6 @@
 [![Github Releases](https://img.shields.io/github/downloads/WasiqB/coteafs-logger/total.svg)](https://github.com/WasiqB/coteafs-logger/releases)
 
 
-
 ## :boom: What's this all about?
 
 coteafs-logger is a wrapper library on top of **log4j2**. This library was created to simplify the logging as there is no need to add two dependency of log4j2. Also the logger config is simplified by introducing Yaml style of configs.
